@@ -40,6 +40,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849753893490:android:f98053c0ff51267593f0eb",
+        "android_client_info": {
+          "package_name": "se.pixolity.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849753893490-470qjn20umrl19efll8uacn51d0sdlt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7sl94AkcxmJT3rnla4qnZV8K6gn2yvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849753893490-470qjn20umrl19efll8uacn51d0sdlt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849753893490-nq4006268cnsqtbrequb5qjb40e9akmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kvcet.cse.mynotes"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBw7sl94AkcxmJT3rnla4qnZV8K6gn2yvU',
-    appId: '1:849753893490:android:79101e116d2c9e0393f0eb',
+    appId: '1:849753893490:android:f98053c0ff51267593f0eb',
     messagingSenderId: '849753893490',
     projectId: 'mynotes-kvcet-21a10',
     storageBucket: 'mynotes-kvcet-21a10.appspot.com',
@@ -63,12 +63,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyD4wM8U5LQn5-Lq855Pi17j_umblgKhPvo',
-    appId: '1:849753893490:ios:99cdb61266b54a4d93f0eb',
+    appId: '1:849753893490:ios:145d3137451726ba93f0eb',
     messagingSenderId: '849753893490',
     projectId: 'mynotes-kvcet-21a10',
     storageBucket: 'mynotes-kvcet-21a10.appspot.com',
-    iosClientId: '849753893490-nq4006268cnsqtbrequb5qjb40e9akmr.apps.googleusercontent.com',
-    iosBundleId: 'kvcet.cse.mynotes',
+    iosClientId: '849753893490-qmv1cgn2a27pum0ingk263a97gosu5vl.apps.googleusercontent.com',
+    iosBundleId: 'se.pixolity.mynotes',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
